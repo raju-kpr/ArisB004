@@ -17,22 +17,7 @@ public class Demo3element7 {
 		WebDriver driver = new ChromeDriver();
 		
 	
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		//Comment	
 	}
 
 }
